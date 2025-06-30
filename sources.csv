@@ -1,3 +1,4 @@
+swarmlibs_tempplates, https://raw.githubusercontent.com/swarmlibs/portainer-templates/refs/heads/main/templates.json, https://github.com/swarmlibs/portainer-templates
 dnburgess_templates, https://raw.githubusercontent.com/dnburgess/self-hosted-template/master/template.json, https://github.com/dnburgess/self-hosted-template/
 qballjos_templates, https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json, https://github.com/Qballjos/portainer_templates/
 selfhostedpro_templates, https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/portainer-2.0/Template/template.json, https://github.com/SelfhostedPro/selfhosted_templates/
